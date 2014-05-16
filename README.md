@@ -5,7 +5,7 @@ OpenScad files for Ideum's fiducial models.
 ##Requirements
 - [OpenScad](http://www.openscad.org/)
 
-##Notes on Model Versions
+##Notes on 5PT Model Versions
 
 - v01: 5 points, one has an angled side
 - v02: 4 perimeter points, equidistant points around the center
